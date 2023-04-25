@@ -1,0 +1,104 @@
+
+
+
+/* Set the background color */
+body {
+  background-color: #F5F5F5;
+}
+
+/* Add some padding to the body */
+body {
+  padding: 20px;
+}
+
+/* Set the font family and color for the heading */
+h1 {
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+/* Style the navigation menu */
+nav {
+  background-color: #333333;
+  overflow: hidden;
+}
+
+/* Add style to the links in the navigation menu */
+nav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the background color of the active link in the navigation menu */
+nav a.active {
+  background-color: #4CAF50;
+}
+
+/* Add style to the music player */
+.music-player {
+  background-color: #FFFFFF;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Style the music player controls */
+.music-player-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Add style to the play button */
+.play-button {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Add style to the pause button */
+.pause-button {
+  background-color: #f44336;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Add style to the progress bar */
+.progress-bar {
+  width: 100%;
+  height: 10px;
+  background-color: #DDDDDD;
+  border-radius: 5px;
+  position: relative;
+}
+
+/* Add style to the progress bar filler */
+.progress-bar-filler {
+  background-color: #4CAF50;
+  height: 100%;
+  border-radius: 5px;
+}
+
+/* Style the footer */
+footer {
+  background-color: #333333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+/* Add some margin to the footer */
+footer {
+  margin-top: 50px;
+}
+
